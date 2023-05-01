@@ -1,0 +1,17 @@
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\bin\Debug\net6.0-windows\remind_me.exe
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\bin\Debug\net6.0-windows\remind_me.deps.json
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\bin\Debug\net6.0-windows\remind_me.runtimeconfig.json
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\bin\Debug\net6.0-windows\remind_me.dll
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\bin\Debug\net6.0-windows\remind_me.pdb
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.Form1.resources
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.csproj.GenerateResource.cache
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.AssemblyInfoInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.AssemblyInfo.cs
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.dll
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\refint\remind_me.dll
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.pdb
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\remind_me.genruntimeconfig.cache
+C:\Users\emrec\OneDrive\Masaüstü\remind_me\remind_me\obj\Debug\net6.0-windows\ref\remind_me.dll
